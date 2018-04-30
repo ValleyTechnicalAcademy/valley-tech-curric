@@ -1,0 +1,208 @@
+{
+  "assetsByChunkName": {
+    "path---courses-coding-from-scratch-slides-html-css": [
+      "path---courses-coding-from-scratch-slides-html-css-e8a5b13ccf276dbc2542.js",
+      "path---courses-coding-from-scratch-slides-html-css-e8a5b13ccf276dbc2542.js.map"
+    ],
+    "component---src-templates-syllabus-js": [
+      "component---src-templates-syllabus-js-d6e8f0f8ea0acff1cb27.js",
+      "component---src-templates-syllabus-js-d6e8f0f8ea0acff1cb27.js.map"
+    ],
+    "path---courses-frontend-foundations-react-syllabus": [
+      "path---courses-frontend-foundations-react-syllabus-de8f2b9d037b36dab53e.js",
+      "path---courses-frontend-foundations-react-syllabus-de8f2b9d037b36dab53e.js.map"
+    ],
+    "path---courses-js-backend-foundations": [
+      "path---courses-js-backend-foundations-81cdc08c6c6f851a8c67.js",
+      "path---courses-js-backend-foundations-81cdc08c6c6f851a8c67.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-844f8c21564d3a65df78.js",
+      "component---src-pages-index-js-844f8c21564d3a65df78.js.map"
+    ],
+    "path---courses-basic-statistics-syllabus": [
+      "path---courses-basic-statistics-syllabus-b47485639daca729a88c.js",
+      "path---courses-basic-statistics-syllabus-b47485639daca729a88c.js.map"
+    ],
+    "path---courses-coding-from-scratch-slides-js-class-inheritance": [
+      "path---courses-coding-from-scratch-slides-js-class-inheritance-f1bd0b7fc26952256532.js",
+      "path---courses-coding-from-scratch-slides-js-class-inheritance-f1bd0b7fc26952256532.js.map"
+    ],
+    "path---cyber-security": [
+      "path---cyber-security-83bd8dd245b331d684eb.js",
+      "path---cyber-security-83bd8dd245b331d684eb.js.map"
+    ],
+    "path---courses-frontend-foundations": [
+      "path---courses-frontend-foundations-d62003b8a6bb8ab810e7.js",
+      "path---courses-frontend-foundations-d62003b8a6bb8ab810e7.js.map"
+    ],
+    "path---courses-js-backend-foundations-slides-how-to": [
+      "path---courses-js-backend-foundations-slides-how-to-d7a3dcca0e97a2a08e38.js",
+      "path---courses-js-backend-foundations-slides-how-to-d7a3dcca0e97a2a08e38.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---courses-coding-from-scratch-slides-js-decision-constructs": [
+      "path---courses-coding-from-scratch-slides-js-decision-constructs-fba7e373acb44eb947b9.js",
+      "path---courses-coding-from-scratch-slides-js-decision-constructs-fba7e373acb44eb947b9.js.map"
+    ],
+    "path---courses-js-backend-foundations-syllabus": [
+      "path---courses-js-backend-foundations-syllabus-2c2554ab945c62675e07.js",
+      "path---courses-js-backend-foundations-syllabus-2c2554ab945c62675e07.js.map"
+    ],
+    "path---software-development": [
+      "path---software-development-83bd8dd245b331d684eb.js",
+      "path---software-development-83bd8dd245b331d684eb.js.map"
+    ],
+    "path---courses-frontend-foundations-slides-css-overview": [
+      "path---courses-frontend-foundations-slides-css-overview-3ffecf07d256ff67eb54.js",
+      "path---courses-frontend-foundations-slides-css-overview-3ffecf07d256ff67eb54.js.map"
+    ],
+    "path---courses-js-backend-foundations-slides-example-content": [
+      "path---courses-js-backend-foundations-slides-example-content-a6b93195eb73ebbb267a.js",
+      "path---courses-js-backend-foundations-slides-example-content-a6b93195eb73ebbb267a.js.map"
+    ],
+    "component---src-templates-course-list-js": [
+      "component---src-templates-course-list-js-85e9e3b7054b2f72d5ab.js",
+      "component---src-templates-course-list-js-85e9e3b7054b2f72d5ab.js.map"
+    ],
+    "component---src-templates-slide-js": [
+      "component---src-templates-slide-js-79e423c4c853c1a3f179.js",
+      "component---src-templates-slide-js-79e423c4c853c1a3f179.js.map"
+    ],
+    "path---courses-coding-from-scratch-slides-js-loops": [
+      "path---courses-coding-from-scratch-slides-js-loops-2b8e4c8c69c9e65ccd5e.js",
+      "path---courses-coding-from-scratch-slides-js-loops-2b8e4c8c69c9e65ccd5e.js.map"
+    ],
+    "path---courses-security-foundations-slides-example-content": [
+      "path---courses-security-foundations-slides-example-content-8f376808043ad2a397d5.js",
+      "path---courses-security-foundations-slides-example-content-8f376808043ad2a397d5.js.map"
+    ],
+    "path---courses-coding-from-scratch-syllabus": [
+      "path---courses-coding-from-scratch-syllabus-d314a26e4b1aef7e245b.js",
+      "path---courses-coding-from-scratch-syllabus-d314a26e4b1aef7e245b.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-194cbc78315f54c9950c.js",
+      "component---src-layouts-index-js-194cbc78315f54c9950c.js.map"
+    ],
+    "path---courses-coding-from-scratch": [
+      "path---courses-coding-from-scratch-1079d6f69f37beffa717.js",
+      "path---courses-coding-from-scratch-1079d6f69f37beffa717.js.map"
+    ],
+    "path---courses-coding-from-scratch-slides-java-script-intro": [
+      "path---courses-coding-from-scratch-slides-java-script-intro-f8d5781e74157d2573eb.js",
+      "path---courses-coding-from-scratch-slides-java-script-intro-f8d5781e74157d2573eb.js.map"
+    ],
+    "path---courses-security-foundations-syllabus": [
+      "path---courses-security-foundations-syllabus-d47cd1457f2316102249.js",
+      "path---courses-security-foundations-syllabus-d47cd1457f2316102249.js.map"
+    ],
+    "path---index": [
+      "path---index-a6afaef20404c915f3fe.js",
+      "path---index-a6afaef20404c915f3fe.js.map"
+    ],
+    "component---src-pages-my-files-js": [
+      "component---src-pages-my-files-js-c8eda7a059b21d9639f6.js",
+      "component---src-pages-my-files-js-c8eda7a059b21d9639f6.js.map"
+    ],
+    "path---my-files": [
+      "path---my-files-4372df33a9b5ea4e620b.js",
+      "path---my-files-4372df33a9b5ea4e620b.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-34b35d6766a223566c00.js",
+      "build-js-styles.css",
+      "commons-34b35d6766a223566c00.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---courses-sample-foundations-syllabus": [
+      "path---courses-sample-foundations-syllabus-36d19bdf066e3bd6d3a4.js",
+      "path---courses-sample-foundations-syllabus-36d19bdf066e3bd6d3a4.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---courses-database-basics-slides-sql-intro": [
+      "path---courses-database-basics-slides-sql-intro-9e3a337aa1825b56a0a0.js",
+      "path---courses-database-basics-slides-sql-intro-9e3a337aa1825b56a0a0.js.map"
+    ],
+    "path---courses-basic-statistics": [
+      "path---courses-basic-statistics-970d63a0353576c76d62.js",
+      "path---courses-basic-statistics-970d63a0353576c76d62.js.map"
+    ],
+    "path---courses-frontend-foundations-react-slides-react-intro": [
+      "path---courses-frontend-foundations-react-slides-react-intro-f531e103d2f039d97a03.js",
+      "path---courses-frontend-foundations-react-slides-react-intro-f531e103d2f039d97a03.js.map"
+    ],
+    "component---src-templates-course-js": [
+      "component---src-templates-course-js-adec5956183a1e82e3bd.js",
+      "component---src-templates-course-js-adec5956183a1e82e3bd.js.map"
+    ],
+    "path---courses-coding-from-scratch-slides-js-this-keyword": [
+      "path---courses-coding-from-scratch-slides-js-this-keyword-0639ccfd98d2531142b1.js",
+      "path---courses-coding-from-scratch-slides-js-this-keyword-0639ccfd98d2531142b1.js.map"
+    ],
+    "path---courses-sample-foundations-slides-how-to": [
+      "path---courses-sample-foundations-slides-how-to-afd6790a3ff45e8079d8.js",
+      "path---courses-sample-foundations-slides-how-to-afd6790a3ff45e8079d8.js.map"
+    ],
+    "path---courses-database-basics": [
+      "path---courses-database-basics-dd6df2a74ca6c151fdbe.js",
+      "path---courses-database-basics-dd6df2a74ca6c151fdbe.js.map"
+    ],
+    "path---courses-database-basics-syllabus": [
+      "path---courses-database-basics-syllabus-6eb96ac2409d3b029b6e.js",
+      "path---courses-database-basics-syllabus-6eb96ac2409d3b029b6e.js.map"
+    ],
+    "path---courses-database-basics-slides-more-rdms": [
+      "path---courses-database-basics-slides-more-rdms-28ca29ba0689c13f516f.js",
+      "path---courses-database-basics-slides-more-rdms-28ca29ba0689c13f516f.js.map"
+    ],
+    "app": [
+      "app-270729e5efc4cfdf38fd.js",
+      "build-js-styles.css",
+      "app-270729e5efc4cfdf38fd.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---courses-sample-foundations-slides-example-content": [
+      "path---courses-sample-foundations-slides-example-content-ee407ac606c13826dba6.js",
+      "path---courses-sample-foundations-slides-example-content-ee407ac606c13826dba6.js.map"
+    ],
+    "path---data-science": [
+      "path---data-science-83bd8dd245b331d684eb.js",
+      "path---data-science-83bd8dd245b331d684eb.js.map"
+    ],
+    "path---courses-frontend-foundations-slides-bootstrap": [
+      "path---courses-frontend-foundations-slides-bootstrap-c529ed18f7381935681a.js",
+      "path---courses-frontend-foundations-slides-bootstrap-c529ed18f7381935681a.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---courses-frontend-foundations-react": [
+      "path---courses-frontend-foundations-react-8ebebf05345399e0e97a.js",
+      "path---courses-frontend-foundations-react-8ebebf05345399e0e97a.js.map"
+    ],
+    "path---courses-frontend-foundations-slides-classbacks-promises": [
+      "path---courses-frontend-foundations-slides-classbacks-promises-676a52a2b45a82c3ce62.js",
+      "path---courses-frontend-foundations-slides-classbacks-promises-676a52a2b45a82c3ce62.js.map"
+    ],
+    "path---courses-frontend-foundations-syllabus": [
+      "path---courses-frontend-foundations-syllabus-356a506eca76bca08181.js",
+      "path---courses-frontend-foundations-syllabus-356a506eca76bca08181.js.map"
+    ],
+    "path---courses-security-foundations-slides-how-to": [
+      "path---courses-security-foundations-slides-how-to-911559935c4129729323.js",
+      "path---courses-security-foundations-slides-how-to-911559935c4129729323.js.map"
+    ]
+  }
+}
