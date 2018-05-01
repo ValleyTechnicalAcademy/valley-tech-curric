@@ -12,7 +12,7 @@ class TemplateWrapper extends Component {
     return (
       <div>
         <Helmet
-          title="woz-u"
+          title="Valley Tech"
           meta={[
             { name: "description", content: "instructional content" },
             {

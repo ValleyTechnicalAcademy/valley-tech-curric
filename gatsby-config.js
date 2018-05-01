@@ -1,6 +1,7 @@
 module.exports = {
+  pathPrefix: `/`,
   siteMetadata: {
-    title: "Woz-U Instruction Materials"
+    title: "Valley Tech Instruction Materials"
   },
   plugins: [
     {

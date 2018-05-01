@@ -661,12 +661,12 @@ a.bracket-select:visited {
 
 a.bracket-select:hover {
   text-decoration: none;
-  color: #5bbdab;
+  color: #8d1d38;
 }
 
 a.bracket-select:active {
   text-decoration: none;
-  color: #5bbdab;
+  color: #8d1d38;
 }
 
 a.bracket-select:hover a:focus {
