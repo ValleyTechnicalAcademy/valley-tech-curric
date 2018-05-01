@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: `/instructional-materials`,
   siteMetadata: {
     title: "Woz-U Instruction Materials"
   },
