@@ -1,8 +1,8 @@
 {
   "name": "instruction-materials",
-  "description": "All the things for a successful Woz-U Class",
+  "description": "All the things for a successful Valley Tech Class",
   "version": "1.0.0",
-  "author": "Jesse Tomchak",
+  "author": "Josue Plaza",
   "dependencies": {
     "gatsby": "^1.9.153",
     "gatsby-link": "^1.6.34",

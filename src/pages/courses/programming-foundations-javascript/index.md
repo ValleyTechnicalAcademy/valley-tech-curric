@@ -2,7 +2,7 @@
 title: "Programming Foundations - JavaScript" 
 courseId:  "FSWG102-JS"
 cirriculum:  
-  - "Software Development"
+  - "Web / Full Stack / Software Development"
 type: "course"
 draft: true
 ---

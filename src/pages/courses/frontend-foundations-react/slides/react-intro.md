@@ -2,7 +2,7 @@
 title: "React Intro" 
 courseId:  "FSWG105-RT"
 cirriculum: 
-  - "Software Development"
+  - "Web / Full Stack / Software Development"
 type: "slide"
 draft: false
 ---

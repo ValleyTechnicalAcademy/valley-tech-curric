@@ -2,7 +2,7 @@
 title: "Front End Foundations Syllabus" 
 courseId:  "FSWG101"
 cirriculum:  
-  - "Software Development"
+  - "Web / Full Stack / Software Development"
 type: syllabus
 draft: false
 tags:

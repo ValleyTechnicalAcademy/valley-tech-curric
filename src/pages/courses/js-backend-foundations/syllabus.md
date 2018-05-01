@@ -2,7 +2,7 @@
 title: "Backend Foundations - JavaScript" 
 courseId:  "FSWG104-JS"
 cirriculum:  
-  - "Software Development"
+  - "Web / Full Stack / Software Development"
 type: syllabus
 draft: false
 ---

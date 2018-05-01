@@ -2,7 +2,7 @@
 title: "JavaScript Intro" 
 courseId:  "CFSG105"
 cirriculum: 
-  - "Software Development"
+  - "Web / Full Stack / Software Development"
 type: "slide"
 draft: false
 ---

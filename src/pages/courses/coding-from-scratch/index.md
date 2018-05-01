@@ -2,7 +2,7 @@
 title: "Coding From Scratch" 
 courseId:  "CFSG105"
 cirriculum: 
-  - "Software Development"
+  - "Web / Full Stack / Software Development"
 type: "course"
 draft: false
 ---

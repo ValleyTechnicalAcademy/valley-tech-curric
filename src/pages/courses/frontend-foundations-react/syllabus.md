@@ -2,7 +2,7 @@
 title: "Front End Foundations - ReactJS" 
 courseId:  "FSWG105-RT"
 cirriculum: 
-  - "Software Development"
+  - "Web / Full Stack / Software Development"
 type: "syllabus"
 draft: false
 ---

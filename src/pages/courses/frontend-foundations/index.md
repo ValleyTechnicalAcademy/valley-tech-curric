@@ -2,7 +2,7 @@
 title: "Front End Foundations" 
 courseId:  "FSWG101"
 cirriculum: 
-  - "Software Development"
+  - "Web / Full Stack / Software Development"
 type: "course"
 draft: false
 ---

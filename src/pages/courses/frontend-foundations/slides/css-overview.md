@@ -2,7 +2,7 @@
 title: "CSS Review" 
 courseId:  "FSWG101"
 cirriculum: 
-  - "Software Development"
+  - "Web / Full Stack / Software Development"
 type: "slide"
 draft: false
 ---

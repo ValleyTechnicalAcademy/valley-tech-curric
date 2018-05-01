@@ -2,7 +2,7 @@
 title: "Backend Foundations - JavaScript" 
 courseId:  "FSWG104-JS"
 cirriculum: 
-  - "Software Development"
+  - "Web / Full Stack / Software Development"
 type: "course"
 draft: False
 ---
@@ -21,7 +21,7 @@ draft: False
 title: "Sample Foundations"
 courseId:  "SSWG101"
 cirriculum:
-  - "Software Development"
+  - "Web / Full Stack / Software Development"
   - "Sample Town"
 type: "course"
 draft: false
@@ -31,7 +31,7 @@ draft: false
 * title: title of your course
 * courseId: LMS course ID
 * cirriculm: This can be multiple, or singular. Options are
-  * "Software Development"
+  * "Web / Full Stack / Software Development"
   * "Data Science"
   * "Cyber Security"
 * type: as it relates to the content.
@@ -49,7 +49,7 @@ draft: false
 title: "Sample Town Foundations Syllabus"
 courseId:  "SSWG101"
 cirriculum:  
-  - "Software Development"
+  - "Web / Full Stack / Software Development"
 type: syllabus
 draft: false
 ---
@@ -90,7 +90,7 @@ draft: false
 title: "How To"
 courseId:  "FSWG101"
 cirriculum:
-  - "Software Development"
+  - "Web / Full Stack / Software Development"
 type: "slide"
 draft: false
 ---
