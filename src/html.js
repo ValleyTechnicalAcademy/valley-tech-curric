@@ -41,7 +41,7 @@ module.exports = class HTML extends React.Component {
           <link
             rel="icon"
             type="image/png"
-            href={withPrefix("./images/favicon-16x16.png")}
+            href={withPrefix("./images/favicon-16x16.ico")}
           />
           {this.props.headComponents}
           {css}
