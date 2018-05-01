@@ -3,7 +3,7 @@ title: "Intro to Web Development"
 courseId:  "WSWD101"
 cirriculum:
   - "Workshops"
-type: "course"
+type: syllabus
 draft: false
 ---
 
