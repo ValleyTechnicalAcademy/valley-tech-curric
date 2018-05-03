@@ -5,7 +5,7 @@ cirriculum:
   - "Workshops"
   - "Sample Town"
 type: "course"
-draft: True
+draft: true
 ---
 
 --> Contents below this line come from the course index.md <--
