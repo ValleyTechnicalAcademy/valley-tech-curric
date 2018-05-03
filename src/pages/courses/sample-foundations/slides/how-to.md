@@ -1,10 +1,10 @@
 ---
-title: "How To" 
+title: "How To"
 courseId:  "SSWG101"
-cirriculum: 
-  - "Web / Full Stack / Software Development"
+cirriculum:
+  - "Workshops"
 type: "slide"
-draft: false
+draft: true
 ---
 
 #remark

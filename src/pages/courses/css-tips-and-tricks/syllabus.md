@@ -1,156 +1,67 @@
 ---
 title: "CSS Tips & Tricks!"
-courseId:  "WSWD101"
+courseId:  "WRKSHP102"
 cirriculum:
   - "Workshops"
 type: syllabus
 draft: false
 ---
 
-### Day 1
+CSS Tips & Tricks
 
-<div class="row">
-<div class="column">
+<b>By</b> Josue Plaza
 
-#### 1. Introduction to Meow
+<b>Time Length</b>: 1 Hour, 20 minutes
 
-* Source code block
-* Source code block
-* Source code block
-* Source code block
+### Instructor Priorities
+* Participants should feel completely welcome and encouraged to open up and ask questions.
 
-</div>
-<div class="column">
+***
 
-#### 2. Simple Syrup
+### Prerequisites
 
-* Source code block
-* Source code block
-* Source code block
-* Source code block
+- A laptop with a web browser installed. (Chrome or Firefox is preferred, but Safari will do. NO INTERNET EXPLORER)
 
-      </div>
+### Workshop Description
 
-  </div>
+The first languages every web developer learns are HTML and CSS. However, without proper guidance, learning these languages can be daunting.
 
----
+In this 2-hour workshop, let Valley Tech teach you HTML and CSS the right way! Regardless if you are interested in building your own web applications, or looking to change careers, this workshop is your (free) ticket into the developer world.
 
-### Day 2
+You will dive head first into common CSS concepts, skill up with live coding exercises, and by the end of the day you'll have a good handle on HTML/CSS practices. Afterward, l will point you to online coding resources, and you can stay to hear more about our amplified 12-week courses in development.
 
-<div class="row">
-<div class="column">
+Takeaways from the workshop are:
 
-#### 3. Burrito Bowls
+- Syntax of HTML and CSS
+- CSS Animations
+- Common types of websites including landing pages and marketing sites
+- Principles of front-end code organization and project structure
+- CSS Flexbox
+- Bootstrap 4
 
-* Source code block
-* Source code block
-* Source code block
-* Source code block
+*COME PREPARED*
 
-</div>
-<div class="column">
+This workshop is for beginners!
 
-#### 4. But's it's a dry heat
+You *must* bring along a laptop.
 
-* Source code block
-* Source code block
-* Source code block
-* Source code block
-* Source code block
-* Source code block
+### 1. Valley Tech Intro (6:35 - 6:40)
 
-      </div>
+### 2. HTML Fundamentals (6:40-6:50)
 
-  </div>
+Talk about HTML structure
+[Stop for Questions]
 
----
+### 3. Introduce CSS: Syntax (6:50-7:00)
 
-### Day 3
+[Stop for questions]
 
-<div class="row">
-<div class="column">
+### 4. CSS Essentials: Classes & Ids (7:00 - 7:10)
 
-#### 5. Building Blocks
+### 5. BREAK TIME (7:10 - 7:20)
 
-* Source code block
-* Source code block
-* Source code block
-* Source code block
-* Source code block
+### 6. Trick: Google Developer Console (Activity 1) (7:20 - 7:40)
 
-</div>
-<div class="column">
+### 7. Trick: CSS Bootstrap (7:40 - 8)
 
-#### 6. Intro to Sushi
-
-* Source code block
-* Source code block
-* Source code block
-* Source code block
-* Source code block
-
-      </div>
-
-  </div>
-
----
-
-### Day 4
-
-<div class="row">
-<div class="column">
-
-#### 7. F.F.O.G.
-
-* Source code block
-* Source code block
-* Source code block
-* Source code block
-* Source code block
-
-</div>
-<div class="column">
-
-#### 8. Introduction to Emoji's
-
-* Source code block
-* Source code block
-* Source code block
-* Source code block
-
-      </div>
-
-  </div>
-
----
-
-### Day 5
-
-<div class="row">
-<div class="column">
-
-#### 9. Ace Venture, Pet Detective
-
-* Source code block
-* Source code block
-* Source code block
-* Source code block
-* Source code block
-
-</div>
-<div class="column">
-
-#### 10. Final Project SampleTown Foundations
-
-* Source code block
-* Source code block
-* Source code block
-* Source code block
-* Source code block
-* Source code block
-
-      </div>
-
-  </div>
-
----
+### 8. Activity 2: Building with Bootstrap (8 - 8:30)

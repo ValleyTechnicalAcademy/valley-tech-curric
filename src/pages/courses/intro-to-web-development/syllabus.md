@@ -2,7 +2,7 @@
 title: "Intro to Web Development"
 courseId:  "SSWG101"
 cirriculum:
-  - "Web / Full Stack / Software Development"
+  - "Workshops"
 type: "syllabus"
 draft: false
 ---

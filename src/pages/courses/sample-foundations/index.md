@@ -1,8 +1,8 @@
 ---
-title: "Sample Foundations" 
+title: "Sample Foundations"
 courseId:  "SSWG101"
-cirriculum: 
-  - "Web / Full Stack / Software Development"
+cirriculum:
+  - "Workshops"
   - "Sample Town"
 type: "course"
 draft: True
@@ -25,7 +25,7 @@ cirriculum:
   - "Web / Full Stack / Software Development"
   - "Sample Town"
 type: "course"
-draft: false
+draft: true
 ---
 ```
 
@@ -52,7 +52,7 @@ courseId:  "SSWG101"
 cirriculum:  
   - "Web / Full Stack / Software Development"
 type: syllabus
-draft: false
+draft: true
 ---
 
 ### Day 1
@@ -93,6 +93,6 @@ courseId:  "FSWG101"
 cirriculum:
   - "Web / Full Stack / Software Development"
 type: "slide"
-draft: false
+draft: true
 ---
 ```

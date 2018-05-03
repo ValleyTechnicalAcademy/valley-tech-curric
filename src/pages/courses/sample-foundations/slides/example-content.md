@@ -1,10 +1,10 @@
 ---
-title: "Sample" 
+title: "Sample"
 courseId:  "SSWG101"
 cirriculum:  
-  - "Web / Full Stack / Software Development"
+  - "Workshops"
 type: "slide"
-draft: false
+draft: true
 ---
 
 # Front End Foundations 1

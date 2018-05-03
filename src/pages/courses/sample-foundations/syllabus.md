@@ -1,10 +1,10 @@
 ---
-title: "Sample Town Foundations Syllabus" 
+title: "Sample Town Foundations Syllabus"
 courseId:  "SSWG101"
 cirriculum:  
-  - "Web / Full Stack / Software Development"
+  - "Workshops"
 type: syllabus
-draft: false
+draft: true
 ---
 
 ### Day 1
