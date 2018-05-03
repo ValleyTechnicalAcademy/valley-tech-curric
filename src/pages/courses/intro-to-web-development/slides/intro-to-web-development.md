@@ -95,7 +95,7 @@ class: center
 
 ---
 
-class: center
+class: middle center
 
 ## HTML Elements Can Store Data
 ### This type of data is called an “attribute”
@@ -168,10 +168,10 @@ class: center
 
 https://codepen.io/pen/?editors=1100
 ---
-class: center
+class: middle center
 # CSS: Let’s Get Stylin’
 ---
-
+class: middle
 ### HTML: Hypertext Markup Language – (Content)
 
 ### CSS: Cascading Style Sheets – (Appearance)
@@ -179,38 +179,44 @@ class: center
 #### HTML/CSS are the “languages of the web.” Together they define both the content and the aesthetics of a webpage – handling everything from the layouts, colors, fonts and  content placement.  (JavaScript is the third – handling logic, animation, etc.)
 
 ---
+class: middle center
 #HTML Alone
 
 ### Like creating pages in “Notepad.”
 
 ### Can only write unformatted text.
 
----
+![inline](https://vignette.wikia.nocookie.net/htmlcss/images/2/29/Notepad_Logo.png/revision/latest?cb=20101004230208)
 
+---
+class: middle center
 # HTML with CSS
 
 ### Like creating pages in Photoshop!
 
 ### Can format text, page settings, alignment, etc. based on “highlighting” and menu options.
 
+![inline](https://usercontent2.hubstatic.com/12801103_f520.jpg)
+
 ---
 class: center
 
+# HTML Code
 ![inline](http://www.valleytechnicalacademy.com/wp-content/uploads/2018/05/Screen-Shot-2018-05-02-at-4.43.31-PM.png)
 ---
-
 class: center
+# HTML Code
 ![inline](http://www.valleytechnicalacademy.com/wp-content/uploads/2018/05/Screen-Shot-2018-05-02-at-4.43.42-PM.png)
 
 ---
-
 class: center
+# HTML Code
 
 ![inline](http://www.valleytechnicalacademy.com/wp-content/uploads/2018/05/Screen-Shot-2018-05-02-at-4.43.52-PM.png)
 
 ---
-# With some CSS...
 class: center
+# With some CSS...
 ![inline](http://www.valleytechnicalacademy.com/wp-content/uploads/2018/05/Screen-Shot-2018-05-02-at-4.44.04-PM.png)
 
 ---
@@ -230,7 +236,7 @@ class: center
 ![inline](http://www.valleytechnicalacademy.com/wp-content/uploads/2018/05/Screen-Shot-2018-05-02-at-4.44.28-PM.png)
 
 ---
-
+class: middle center
 # CSS Example
 
 ``.bigBlue
@@ -257,7 +263,7 @@ class: center
 ]
 
 ---
-class: center
+class: middle center
 ## Believe it or not, HTML / CSS is all you need
 to develop a vivid, full-blown website.
 
@@ -278,6 +284,10 @@ class: middle center
 # Another Option: Us!
 
 --
+
+![inline](http://www.valleytechnicalacademy.com/wp-content/uploads/2018/05/workshop_image.png)
+
+--
 ### Upcoming Workshops Every Thursday @ 6:30
 
 
@@ -294,6 +304,4 @@ class: middle center
 
 class: middle center
 
-![inline](http://www.valleytechnicalacademy.com/wp-content/uploads/2018/05/workshop_image.png)
-
-Thank you! </>
+# { thank you }
