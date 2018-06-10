@@ -48,103 +48,97 @@ class: top center
 
 * Write it out by hand first in pseudocode
 * Whiteboard
-
-## ]
+]
 
 ---
-
 class: middle center
-
-# CREATING A PROJECT
+## The Developer Path
+#### Why do you want to be a developer?
 
 ---
-
-class: top center
-
-# FILE PATH
-
+class: middle
+## Why Become A Developer?
+--
 .left[
-
-## Create Project folder
-
-* Create files in project folder
-  * HTML
-  * CSS
-  * Any other files you need
-
-```
-my-project
-├── README.md
-├── index.html
-├── style.css
-```
-
+* To follow a dream
+* To be able to create
+* To pursue business ventures
+* To attain financial stability
+* To attain financial freedom
+* To challenge yourself
+* To become a role model
 ]
+---
+class: middle center
+## We take your success very, very seriously.
+---
+class: middle center
+## Our Promise
 
+##### If you are willing to put in your time to learn, - and you take our advice, we’re here to help you 100% of the way
+
+##### Everyone here at the VTA are working to ensure your success and achievement!
+---
+![](http://alliswall.com/file/4022/1920x1200/16:9/your-future-is-created-by-what-you-do-today.jpg)
+---
+## Learning to Code Requires Two Things:
+
+1. Understanding that this can be incredibly difficult and frustrating
+2. Maintaining the self-confidence necessary to believe that YOU can do this
+
+---
+## Getting “stuck” when coding is still progress
+
+“You cannot tell whether you’re learning something when you’re learning it—in fact, learning feels a lot more like frustration.”
+
+“What I’ve learned is that this period of frustration is actually when people improve the most, and these improvements are usually obvious to an outsider. If you feel frustrated while trying to understand new concepts, try to remember that it might not feel like it, but you’re probably rapidly expanding your knowledge.”
+
+.footnote[.red.bold[*] Jeff Dickey, Author of Write Modern Web Apps with Mongo, Express, AngularJS, and Node.JS]*
+
+---
+class: middle center
+## Throughout This Season, Remember:
+
+### Work Hard & Appreciate Your Success
 ---
 
 class: middle center
+## Questions?
+---
+Early Weeks (~1-2): HTML, CSS, JS Essentials
+- HTML
+- CSS
+- Javascript, jQuery
+- Git + GitHub
+- Bootstrap 4
 
-# HTML
+Mid Weeks (~3-4): Front-End Development
+- React
+- Angular
+
+Later Weeks (~5-6): Back-End Development
+- NodeJS
+- MySQL
+- NodeJS
+- Express
+
+Capstone Weeks (7-12): Team Project
+- Create An App using everything you've learned
 
 ---
-
-class: center
-
-# HTML
-
-.bottom[
-
-### Hyper Text Markup Language
-
-## HTML is a markup language that is used to have more than just text sitting on a page. We can have images, links, tables, lists, etc.
-
-]
-
----
-
 class: middle center
+## Needed Software
 
-# TAGS VS ELEMENTS
+- Atom OR Visual Studio Code (Both are Free)
+- NodeJS
+- Homebrew & Git
+- iTerm2 (Optional, Terminal is just fine that is included in all Macs)
 
-.left[
-
-## Tags
-
-* Specialized series of characters that a browser interprets as either the start or end of an HTML element
-
-## Elements
-
-* HTML components that contain the start and end tag
-* Think of them as the whole object
-  ]
-
-## `<p> This is a sentence that will appear </p>`
-
+https://atom.io
+https://code.visualstudio.com/
+https://nodejs.org/en/
+https://gist.github.com/derhuerst/1b15ff4652a867391f03
+https://www.iterm2.com/
 ---
-
-class:
-
-# HTML DOCUMENT STRUCTURE
-
-# Comprised of:
-
-.left-column[
-
-* !DOCTYPE
-  * Specifies which version of HTML is being used
-* HTML Element
-  * Denote start of HTML document
-  * Contains the whole HTML document
-    ]
-
-.right-column[
-
-* Head Element
-  * Contains metadata: data not displayed
-  * Links to other files
-  * Title
-* Body Element
-  * Content displayed in the browser
-
-]
+class: center middle
+## Questions?
