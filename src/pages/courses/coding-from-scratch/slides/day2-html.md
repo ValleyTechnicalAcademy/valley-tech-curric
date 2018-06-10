@@ -1,29 +1,15 @@
 ---
-title: "Intro to Web Development"
-courseId:  "WSWD101"
+title: "DAY 2 - HTML Sets It Up"
+courseId:  "CFSG105"
 cirriculum:
-  - "Workshops"
+  - "Web / Full Stack / Software Development"
 type: "slide"
 draft: false
 ---
 
 class: middle center
 
-# WELCOME TO WEB DEVELOPMENT
-
----
-
-class: middle center
-
-# Who are we?
-
----
-
-class: top center
-
-![inline](http://www.valleytechnicalacademy.com/wp-content/uploads/2018/05/workshop_image.png)
-
-Next class Starting: <b>June 11</b>
+# HTML SETS IT UP
 
 ---
 
@@ -32,40 +18,6 @@ class: top center
 # APPS ARE EVERYWHERE
 
 ![inline](https://sjunkins.files.wordpress.com/2014/06/iste-posters-001.jpg)
-
----
-
-# AND THE FIELD IS GROWING
-
-.left[
-* https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm
-* Expected Growth of 24% by 2026
-* $103k median salary
-]
-
----
-
-# Stack Overflow Developer Survey 2018
-
-.left[
-* https://insights.stackoverflow.com/survey/2018/#salary
-]
-
----
-class: middle center
-![inline](https://mir-s3-cdn-cf.behance.net/project_modules/disp/4e580610140389.560e007145f42.png)
-
----
-class: center
-![inline](https://image.slidesharecdn.com/webdevhtml5-141007180302-conversion-gate02/95/web-development-technologies-and-tools-2-638.jpg?cb=1412705110)
-
-Believe it or not, it's easier to get into than ever before
-
----
-
-class: center
-
-# HTML: The Blueprint of the Website
 
 ---
 #  H T M L

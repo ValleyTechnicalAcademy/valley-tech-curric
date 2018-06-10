@@ -1,5 +1,5 @@
 ---
-title: "HTML & CSS"
+title: "DAY 1 - Thinking Like A Programmer"
 courseId:  "CFSG105"
 cirriculum:
   - "Web / Full Stack / Software Development"

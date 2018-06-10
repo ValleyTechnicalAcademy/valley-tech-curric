@@ -1,5 +1,5 @@
 ---
-title: "Coding From Scratch"
+title: "Week 1 - Coding From Scratch"
 courseId:  "CFSG105"
 cirriculum:
   - "Web / Full Stack / Software Development"
