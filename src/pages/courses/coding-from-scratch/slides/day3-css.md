@@ -162,3 +162,110 @@ class: center
 # Exercise: Let’s Continue On Our Website
 
 https://codepen.io/pen/?editors=1100
+
+---
+class: middle center
+
+# CSS Box Model
+
+---
+class: middle center
+
+![](https://internetingishard.com/html-and-css/css-box-model/css-box-model-73a525.png)
+
+---
+class: middle
+## https://codepen.io/hexagonstorms/pen/MXmYme
+
+---
+class: middle center
+# CSS Floats
+
+---
+# Floats
+
+* By default, every HTML element displayed in the browser is governed by a concept called “flow.”
+
+* This means that HTML elements force their adjacent elements to flow around them.
+
+---
+class: middle center
+![](https://i.imgur.com/ycTUjqo.png)
+???
+float right example
+---
+class: middle center
+![](https://i.imgur.com/WXzltVV.png)
+???
+html/css
+---
+class: middle center
+![](https://i.imgur.com/DMzIPSm.png)
+???
+ideal
+---
+class: middle center
+![](https://i.imgur.com/1JBlT8B.png)
+???
+non-ideal
+---
+
+class: center
+
+![](https://i.imgur.com/tVCWnfu.png)
+
+### Sometimes when elements don’t match up in size, we get situations like the above…
+---
+class: middle center
+
+![](https://i.imgur.com/vX1lbV0.png)
+
+---
+# Float Activity
+
+![](https://i.imgur.com/LPvXsae.png)
+
+* https://codepen.io/hexagonstorms/pen/aKWzpy
+
+---
+class: middle center
+# CSS Positioning
+
+---
+# 4 Types of Positioning:
+
+1. Static (Default)
+
+- Most common. All elements are this by default.
+---
+# 4 Types of Positioning:
+
+2. Relative
+
+- Allows for some manipulation by the CSS Properties: LEFT, TOP, RIGHT, BOTTOM
+---
+# 4 Types of Positioning:
+
+3. Absolute
+
+- Allows of ABSOLUTE manipulation by the CSS Properties: LEFT, TOP, RIGHT, BOTTOM
+- Is Anchored by an RELATIVE element.
+---
+# 4 Types of Positioning:
+
+4. Fixed
+
+- Stays in it's precise spot, regardless of page scrolling
+- Allows of ABSOLUTE manipulation by the CSS Properties: LEFT, TOP, RIGHT, BOTTOM
+- Is Anchored by an RELATIVE element.
+
+---
+class: middle center
+# Guess the Position Type
+
+https://codepen.io/hexagonstorms/pen/YvVPLR
+
+---
+class: middle center
+
+<img src="https://i.imgur.com/HYnGJWU.png" width="75%">

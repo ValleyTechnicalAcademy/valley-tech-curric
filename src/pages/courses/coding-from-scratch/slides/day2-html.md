@@ -119,3 +119,10 @@ class: center
 # Exercise: Let’s Make A Site Together
 
 https://codepen.io/pen/?editors=1100
+
+---
+class: middle center
+# HTML Semantics
+---
+class: center
+<div><img src="https://s3.amazonaws.com/viking_education/web_development/web_app_eng/html5_sectioning_specific_post.jpg" width="80%"></div>
