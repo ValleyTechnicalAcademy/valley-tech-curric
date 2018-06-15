@@ -84,16 +84,19 @@ class: middle
 
 ---
 class: middle center
+# Grabbing DOM elements via JS
 ```Javascript
 var myElement = document.getElementById("intro");
 ```
 ---
 class: middle center
+# Grabbing DOM elements via JS
 ```Javascript
 var x = document.getElementsByClassName("intro");
 ```
 ---
 class: middle center
+# Grabbing DOM elements via JS
 ```Javascript
 var myElement = document.getElementById("intro").value;
 ```
