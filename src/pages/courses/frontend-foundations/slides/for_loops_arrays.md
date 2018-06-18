@@ -232,6 +232,7 @@ class: middle center
 ???
 LECTURE Global Scope
 ---
+# JS Scope Example
 
 ```javascript
 var test = "I'm global!";
