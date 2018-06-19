@@ -43,7 +43,7 @@ class: middle center
     }
 ```
 ???
-
+10m | 9:45
 Morning Warmup Slide
 
 ---
@@ -53,6 +53,7 @@ class: middle center
 <p>For Loops are used to <b>REPEAT</b> lines of code.<br><br> This <b>saves us time</b> so we do not write the same things over & over again.</p>
 
 ???
+5m
 LECTURE For Loops
 ---
 
@@ -64,6 +65,8 @@ for (var i = 0; i < 4; i++) {
     //commands to be repeated go inside the body marked by opening and closing curly braces
 }
 ```
+???
+5m
 ---
 ### NO FOR LOOP
 ```JavaScript
@@ -87,6 +90,7 @@ for (var i = 0; i < vegetables.length; i++) {
 ```
 
 ???
+5m | 10am
 EXAMPLES
 ---
 # YOUR TURN! #1
@@ -103,6 +107,9 @@ console.log(zooAnimals[3]);
 
 ```
 ???
+30m | 10:30am
+BREAK | 10:40am
+Review | 11am
 EXERCISE 1: For Loop
 
 ---

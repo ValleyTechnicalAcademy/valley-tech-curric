@@ -21,6 +21,8 @@ tags:
 * Push, Pop, .length, sort()
 * Array Practice
 * Spread operator
+
+
 * _this_ keyword
 * Dot notation
 * Scoping, Global Scope, Hoisting
