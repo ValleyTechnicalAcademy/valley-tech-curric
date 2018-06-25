@@ -1,10 +1,10 @@
 ---
-title: "Bootstrap"
+title: "Bootstrap 4"
 courseId:  "FSWG101"
 cirriculum:
   - "Web / Full Stack / Software Development"
 type: "slide"
-draft: true
+draft: false
 ---
 
 # Bootstrap
@@ -97,3 +97,10 @@ bootstrap/
 | Max column width    |                Auto                 |                                            ~62px |                            ~81px |                            ~97px |
 
 ---
+class: middle center
+## Documentation is EVERYTHING
+
+- Nobody is a wiz at Bootstrap at the beginning.
+- You will learn everything by just visiting and reading the docs
+
+http://getbootstrap.com/
