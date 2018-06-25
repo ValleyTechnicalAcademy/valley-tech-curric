@@ -1,0 +1,164 @@
+{
+  "assetsByChunkName": {
+    "path---courses-frontend-foundations-slides-arrows-switches": [
+      "path---courses-frontend-foundations-slides-arrows-switches-0d67b29fc54c53237d88.js",
+      "path---courses-frontend-foundations-slides-arrows-switches-0d67b29fc54c53237d88.js.map"
+    ],
+    "component---src-templates-syllabus-js": [
+      "component---src-templates-syllabus-js-d6e8f0f8ea0acff1cb27.js",
+      "component---src-templates-syllabus-js-d6e8f0f8ea0acff1cb27.js.map"
+    ],
+    "path---courses-frontend-foundations-react-syllabus": [
+      "path---courses-frontend-foundations-react-syllabus-f3f0a48a9c22fb7e4c96.js",
+      "path---courses-frontend-foundations-react-syllabus-f3f0a48a9c22fb7e4c96.js.map"
+    ],
+    "path---courses-js-backend-foundations": [
+      "path---courses-js-backend-foundations-fd40244aa88e1f26ca52.js",
+      "path---courses-js-backend-foundations-fd40244aa88e1f26ca52.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-844f8c21564d3a65df78.js",
+      "component---src-pages-index-js-844f8c21564d3a65df78.js.map"
+    ],
+    "path---web-full-stack-software-development": [
+      "path---web-full-stack-software-development-3b7e96821029992f24cd.js",
+      "path---web-full-stack-software-development-3b7e96821029992f24cd.js.map"
+    ],
+    "path---courses-frontend-foundations": [
+      "path---courses-frontend-foundations-11e0e3e3461e004d54f0.js",
+      "path---courses-frontend-foundations-11e0e3e3461e004d54f0.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---courses-frontend-foundations-angular-syllabus": [
+      "path---courses-frontend-foundations-angular-syllabus-2c567e16ece2d5b4ff7e.js",
+      "path---courses-frontend-foundations-angular-syllabus-2c567e16ece2d5b4ff7e.js.map"
+    ],
+    "path---courses-js-backend-foundations-syllabus": [
+      "path---courses-js-backend-foundations-syllabus-6e6f331f2ba0e90d6146.js",
+      "path---courses-js-backend-foundations-syllabus-6e6f331f2ba0e90d6146.js.map"
+    ],
+    "path---courses-coding-from-scratch-slides-day-5-more-js": [
+      "path---courses-coding-from-scratch-slides-day-5-more-js-c5118ec910e789bcf688.js",
+      "path---courses-coding-from-scratch-slides-day-5-more-js-c5118ec910e789bcf688.js.map"
+    ],
+    "component---src-templates-course-list-js": [
+      "component---src-templates-course-list-js-85e9e3b7054b2f72d5ab.js",
+      "component---src-templates-course-list-js-85e9e3b7054b2f72d5ab.js.map"
+    ],
+    "component---src-templates-slide-js": [
+      "component---src-templates-slide-js-79e423c4c853c1a3f179.js",
+      "component---src-templates-slide-js-79e423c4c853c1a3f179.js.map"
+    ],
+    "path---courses-coding-from-scratch-slides-day-3-css": [
+      "path---courses-coding-from-scratch-slides-day-3-css-045f7649d53fba339435.js",
+      "path---courses-coding-from-scratch-slides-day-3-css-045f7649d53fba339435.js.map"
+    ],
+    "path---courses-coding-from-scratch-syllabus": [
+      "path---courses-coding-from-scratch-syllabus-9d4092256acd120ac9c2.js",
+      "path---courses-coding-from-scratch-syllabus-9d4092256acd120ac9c2.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-89361ab33cce2b952f18.js",
+      "component---src-layouts-index-js-89361ab33cce2b952f18.js.map"
+    ],
+    "path---courses-coding-from-scratch": [
+      "path---courses-coding-from-scratch-eacaf36537d454aafc0d.js",
+      "path---courses-coding-from-scratch-eacaf36537d454aafc0d.js.map"
+    ],
+    "path---courses-frontend-foundations-slides-classes": [
+      "path---courses-frontend-foundations-slides-classes-2ce636055f62839dbb58.js",
+      "path---courses-frontend-foundations-slides-classes-2ce636055f62839dbb58.js.map"
+    ],
+    "path---index": [
+      "path---index-5eb9a25cd0599fad67be.js",
+      "path---index-5eb9a25cd0599fad67be.js.map"
+    ],
+    "path---courses-coding-from-scratch-slides-day-2-html": [
+      "path---courses-coding-from-scratch-slides-day-2-html-a30c9c66b7d12765a869.js",
+      "path---courses-coding-from-scratch-slides-day-2-html-a30c9c66b7d12765a869.js.map"
+    ],
+    "component---src-pages-my-files-js": [
+      "component---src-pages-my-files-js-c8eda7a059b21d9639f6.js",
+      "component---src-pages-my-files-js-c8eda7a059b21d9639f6.js.map"
+    ],
+    "path---my-files": [
+      "path---my-files-1b3bd608b3dcaa06ee3d.js",
+      "path---my-files-1b3bd608b3dcaa06ee3d.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "path---courses-coding-from-scratch-slides-day-4-javascript": [
+      "path---courses-coding-from-scratch-slides-day-4-javascript-d8e13de9a9c2cf05e934.js",
+      "path---courses-coding-from-scratch-slides-day-4-javascript-d8e13de9a9c2cf05e934.js.map"
+    ],
+    "commons": [
+      "commons-34b35d6766a223566c00.js",
+      "build-js-styles.css",
+      "commons-34b35d6766a223566c00.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---courses-frontend-foundations-slides-terminal": [
+      "path---courses-frontend-foundations-slides-terminal-38d92acfc5ce2f834a07.js",
+      "path---courses-frontend-foundations-slides-terminal-38d92acfc5ce2f834a07.js.map"
+    ],
+    "path---courses-frontend-foundations-slides-for-loops-arrays": [
+      "path---courses-frontend-foundations-slides-for-loops-arrays-b1cccc74f0f0749eafc5.js",
+      "path---courses-frontend-foundations-slides-for-loops-arrays-b1cccc74f0f0749eafc5.js.map"
+    ],
+    "path---courses-coding-from-scratch-slides-day-1-programmer": [
+      "path---courses-coding-from-scratch-slides-day-1-programmer-bccd4f6c6e1c08968872.js",
+      "path---courses-coding-from-scratch-slides-day-1-programmer-bccd4f6c6e1c08968872.js.map"
+    ],
+    "path---courses-coding-from-scratch-slides-day-0-intro": [
+      "path---courses-coding-from-scratch-slides-day-0-intro-c6a1af1732f61d5b527e.js",
+      "path---courses-coding-from-scratch-slides-day-0-intro-c6a1af1732f61d5b527e.js.map"
+    ],
+    "component---src-templates-course-js": [
+      "component---src-templates-course-js-adec5956183a1e82e3bd.js",
+      "component---src-templates-course-js-adec5956183a1e82e3bd.js.map"
+    ],
+    "path---courses-database-basics": [
+      "path---courses-database-basics-783a64351537d90e6380.js",
+      "path---courses-database-basics-783a64351537d90e6380.js.map"
+    ],
+    "path---courses-database-basics-syllabus": [
+      "path---courses-database-basics-syllabus-d53d23036b94b35f9180.js",
+      "path---courses-database-basics-syllabus-d53d23036b94b35f9180.js.map"
+    ],
+    "app": [
+      "app-12c42b5cca129c749317.js",
+      "build-js-styles.css",
+      "app-12c42b5cca129c749317.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---courses-frontend-foundations-slides-bootstrap": [
+      "path---courses-frontend-foundations-slides-bootstrap-6caf6e55ab7831af661b.js",
+      "path---courses-frontend-foundations-slides-bootstrap-6caf6e55ab7831af661b.js.map"
+    ],
+    "path---courses-frontend-foundations-angular": [
+      "path---courses-frontend-foundations-angular-2a5a98be46d018837aeb.js",
+      "path---courses-frontend-foundations-angular-2a5a98be46d018837aeb.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---courses-frontend-foundations-react": [
+      "path---courses-frontend-foundations-react-7768cdd51535b05b5488.js",
+      "path---courses-frontend-foundations-react-7768cdd51535b05b5488.js.map"
+    ],
+    "path---courses-frontend-foundations-syllabus": [
+      "path---courses-frontend-foundations-syllabus-a1e17768570b10e7dc5d.js",
+      "path---courses-frontend-foundations-syllabus-a1e17768570b10e7dc5d.js.map"
+    ]
+  }
+}

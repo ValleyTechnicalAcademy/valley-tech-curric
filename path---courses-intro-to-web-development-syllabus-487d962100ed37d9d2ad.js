@@ -1,0 +1,2 @@
+webpackJsonp([65961198590250],{427:function(t,e){t.exports={data:{markdownRemark:{html:"<h3>Day 1</h3>\n<p>Testing</p>",headings:[{depth:3,value:"Day 1"}],frontmatter:{title:"Intro to Web Development"}}},pathContext:{slug:"/courses/intro-to-web-development/syllabus/"}}}});
+//# sourceMappingURL=path---courses-intro-to-web-development-syllabus-487d962100ed37d9d2ad.js.map
